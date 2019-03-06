@@ -1,0 +1,118 @@
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ADC.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ADC_IRQ.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ADC_theACLK.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CLK.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CyLib.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CySpc.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/EEPROM.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/I2C.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/I2C_PVT.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/IRQRX.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ISR_A.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ISR_MOV.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/LCD.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PHabitacion.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PHabitacion_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINA.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINA_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINB.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINB_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINC.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINC_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PIND.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PIND_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINMOV.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINMOV_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PSala.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PSala_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PTEMP.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PTEMP_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PWM.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/Pin_A.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/Pin_A_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/SCL.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/SCL_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/SDA.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/SDA_aliases.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/UART.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/UART_IntClock.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cmsis_compiler.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/core_cm3.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cyPm.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydevice.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cypins.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cytypes.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/project.h C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/main.c 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ADC.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ADC_IRQ.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ADC_theACLK.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CLK.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/EEPROM.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/I2C.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/I2C_PVT.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/IRQRX.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ISR_A.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/ISR_MOV.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/LCD.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PHabitacion.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PHabitacion_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINA.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINA_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINB.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINB_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINC.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINC_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PIND.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PIND_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINMOV.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PINMOV_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PSala.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PSala_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PTEMP.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PTEMP_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/PWM.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/Pin_A.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/Pin_A_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/SCL.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/SCL_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/SDA.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/SDA_aliases.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/UART.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/UART_IntClock.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cmsis_compiler.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC5/project.h : 
+
+C:/Users/jefer/OneDrive/Documentos/PSoC\ Creator/Workspace01/Design01.cydsn/main.c : 
+
